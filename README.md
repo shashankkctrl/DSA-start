@@ -1,2 +1,2 @@
 # DSA-start
-this is my first DSA journey
+This is my first DSA journey.
